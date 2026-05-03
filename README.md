@@ -3,7 +3,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 
 ## 🖥️ Information Technology
 - Hardware and software troubleshooting (PC, smartphone, etc.).
-- Programming WhatsApp, Telegram, Discord and/or console bots (also with AI API integrations) and host/run them on Raspberry Pi with Proxmox or VPS.
+- Programming WhatsApp, Telegram, Discord and/or console bots (also with AI API integrations) and host/run them on Raspberry Pi (with Proxmox) or VPS.
 - Find out how things work (reverse engineering style) and maybe make them work differently.
 
 ## 📣 Visual and Advertising Communication
