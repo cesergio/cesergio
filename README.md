@@ -12,6 +12,7 @@
 
 ## 🛠️ **What I use (but not only)**
 <p align="left">
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="Proxmox" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Android Studio" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30"/>
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="Postman" width="30"/>
