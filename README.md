@@ -1,5 +1,5 @@
 # Me
-*Information Technology & Visual and Advertising Communication enthusiast.*
+Information Technology & Visual and Advertising Communication enthusiast.
 
 ## 🖥️ Information Technology
 - Hardware and software troubleshooting (PC, smartphone, etc.).
