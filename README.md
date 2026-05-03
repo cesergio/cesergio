@@ -10,7 +10,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 - Designing pictograms, monograms, business cards, letterheads and envelopes, brand books, moodboards, storyboards, brochures, illustrations, posters, maps, ads, brands, logos, packagings, advertising campaigns, websites (with Google Sites and JavaScript), infographics, photo and video editing.
 
 
-## 🛠️ **What I use (but not only)**
+## 🛠️ What I use (but not only)
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="Proxmox" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Android Studio" width="30"/>
