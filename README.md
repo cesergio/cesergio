@@ -2,7 +2,7 @@
 Information Technology & Visual and Advertising Communication enthusiast.
 
 ## 🖥️ Information Technology
-- Hardware and software troubleshooting (PC, smartphone, etc.).
+- Hardware and software troubleshooting (PC, smartphone, etc.) while writing a proper report.
 - Programming WhatsApp, Telegram, Discord and/or console bots (also with AI API integrations) and host/run them on a Raspberry Pi (with Proxmox on it) or a VPS.
 - Find out how things work (reverse engineering style) and maybe make them work differently.
 
