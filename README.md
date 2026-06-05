@@ -1,4 +1,4 @@
-# It's me!
+# It's me, Sergio
 Information Technology & Visual and Advertising Communication enthusiast.
 
 
