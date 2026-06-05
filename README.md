@@ -15,6 +15,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 ### 🖥️ Information Technology
 #### 2020 - 2023
 - Developed a Discord bot for advanced moderation and game statistics tracking for Grand Theft Auto V and Fortnite.
+- Developed a tool to automatically solve captchas.
 #### 2024
 - Identified a vulnerability on a REST API endpoint of a very well known platform and created a Python script as a proof-of-concept to reproduce and validate the security issue for testing and documentation purposes.
 - Started developing various social media bots.
