@@ -24,7 +24,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 - Developed a Telegram bot for social media profile information lookup.
 - Developed a Telegram bot for retrieving and converting audio content into MP3 format.
 #### 2026
-- Developed a fully automated Reels/Shorts generator for social media platforms (basically a content generator).
+- Developed a fully automated social media content generator. It generates viral Reels/Shorts as MP4 ready to be posted on social media platforms.
 
 ## 🛠️ What I mainly use
 <p align="left">
