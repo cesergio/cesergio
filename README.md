@@ -6,7 +6,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 ### 🖥️ Information Technology
 - Hardware and software troubleshooting (PC, smartphone, etc.) while writing a proper report.
 - Developing WhatsApp, Telegram, Discord and/or console bots (also with AI API integrations) and host/run them on a Raspberry Pi (with Proxmox on it) or a VPS.
-- Find out how things work (reverse engineering style) and maybe make them work differently.
+- Finding out how things work (reverse engineering style) and maybe make them work differently.
 ### 📣 Visual and Advertising Communication
 - Designing pictograms, monograms, business cards, letterheads and envelopes, brand books, moodboards, storyboards, brochures, illustrations, posters, maps, ads, brands, logos, packagings, advertising campaigns, websites (with Google Sites and JavaScript), infographics, photo and video editing.
 
