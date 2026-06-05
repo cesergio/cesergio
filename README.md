@@ -16,9 +16,10 @@ Information Technology & Visual and Advertising Communication enthusiast.
 #### 2020 - 2023
 - Developed a Discord bot for advanced moderation and game statistics tracking for GTA 5 and Fortnite.
 #### 2024
-- Identified a vulnerability on an HTTP API endpoint of a very well known platform and created a Python script as a proof-of-concept to reproduce and validate the security issue for testing and documentation purposes.
+- Identified a vulnerability on a REST API endpoint of a very well known platform and created a Python script as a proof-of-concept to reproduce and validate the security issue for testing and documentation purposes.
 - Started developing various social media bots.
 #### 2025
+- Developed a e-book-to-PDF converter.
 - Developed a Telegram bot for social media profile information lookup.
 - Developed a Telegram bot for retrieving and converting audio content into MP3 format.
 - Developed a fully automated tool that generates short-form videos (Reels/Shorts) for social media platforms; 
