@@ -12,7 +12,6 @@ Information Technology & Visual and Advertising Communication enthusiast.
 
 ## 🗂️ Relevant projects
 ### 🖥️ Information Technology
-All these projects were mainly developed using Python as is my primary programming language.
 #### 2020 - 2023
 - Developed a Discord bot for advanced moderation and game statistics tracking for GTA 5 and Fortnite.
 #### 2024
