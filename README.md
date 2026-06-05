@@ -3,34 +3,28 @@ Information Technology & Visual and Advertising Communication enthusiast.
 
 
 ## 📓 Areas of focus 
-
 ### 🖥️ Information Technology
 - Hardware and software troubleshooting (PC, smartphone, etc.) while writing a proper report.
 - Programming WhatsApp, Telegram, Discord and/or console bots (also with AI API integrations) and host/run them on a Raspberry Pi (with Proxmox on it) or a VPS.
 - Find out how things work (reverse engineering style) and maybe make them work differently.
-
 ### 📣 Visual and Advertising Communication
 - Designing pictograms, monograms, business cards, letterheads and envelopes, brand books, moodboards, storyboards, brochures, illustrations, posters, maps, ads, brands, logos, packagings, advertising campaigns, websites (with Google Sites and JavaScript), infographics, photo and video editing.
 
-
 ## 🗂️ Relevant projects
+### 🖥️ Information Technology
 All these projects were mainly developed using Python as is my primary programming language.
-
-### 2020 - 2023
+#### 2020 - 2023
 - Developed a Discord bot for advanced moderation and game statistics tracking for GTA 5 and Fortnite.
-
-### 2024
+#### 2024
 - Identified an API endpoint vulnerability on a very well known platform and created a Python script as a proof-of-concept to reproduce and validate the security issue for testing and documentation purposes.
 - Started developing various social media bots.
-
-### 2025
+#### 2025
 - Developed a Telegram bot for social media profile information lookup.
 - Developed a Telegram bot for retrieving and converting audio content into MP3 format.
 - Developed a fully automated tool that generates short-form videos (Reels/Shorts) for social media platforms; 
 basically a content generator.
 
-
-## 🛠️ What I use
+## 🛠️ What I mainly use
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/proxmox-light.svg" alt="Proxmox" width="30"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="Android Studio" width="30"/>
@@ -45,7 +39,6 @@ basically a content generator.
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="30"/>
 <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office" width="30"/>
 </p>
-
 
 ## 📜 Portfolios
 - [Some of my Visual and Advertising Communication projects](https://github.com/cesergio/cesergio/blob/main/Visual%20and%20Advertising%20Communication/Some%20of%20my%20Visual%20and%20Advertising%20Communication%20projects.pdf)
