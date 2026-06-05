@@ -22,7 +22,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 - Developed a e-book-to-PDF converter.
 - Developed a Telegram bot for social media profile information lookup.
 - Developed a Telegram bot for retrieving and converting audio content into MP3 format.
-### 2026
+#### 2026
 - Developed a fully automated Reels/Shorts generator for social media platforms (basically a content generator).
 
 ## 🛠️ What I mainly use
