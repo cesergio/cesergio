@@ -1,7 +1,6 @@
 # It's me, Sergio
 Information Technology & Visual and Advertising Communication enthusiast.
 
-
 ## 📓 Areas of focus 
 ### 🖥️ Information Technology
 - Hardware and software troubleshooting (PC, smartphone, etc.) while writing a proper report.
@@ -14,18 +13,23 @@ Information Technology & Visual and Advertising Communication enthusiast.
 ## 🗂️ Relevant projects
 ### 🖥️ Information Technology
 #### 2020 - 2023
-- Developed a really advanced Discord bot for server moderation and game statistics lookup for Grand Theft Auto V and Fortnite.
-- Developed a tool to automatically solve captchas.
+- Developed an advanced Python Discord bot for server moderation, cybersecurity, and gaming analytics. Implemented 100% custom algorithms to detect potentially fraudulent accounts, integrated security services such as VirusTotal to scan malicious URLs, and provided account breach alerts. Also developed game statistics features for Grand Theft Auto V and Fortnite, allowing users to retrieve detailed player data and performance metrics through username-based lookups.
+- Developed an FFmpeg-based script for 24/7 automated streaming of MP4 video content to YouTube.
+- Developed a proof-of-concept CAPTCHA bypass tool that leveraged weaknesses in a misconfigured validation workflow to automatically obtain valid challenge tokens. Built using a Python script and a lightweight architecture based around 97% on direct REST API interactions, enabling rapid token acquisition by completing the intended challenge in an unexpected way. The research targeted a widely used CAPTCHA provider and was conducted for security research purposes to demonstrate implementation flaws and evaluate the robustness of CAPTCHA validation systems.
 #### 2024
-- Identified a vulnerability on a REST API endpoint of a very well known platform and created a Python script as a proof-of-concept to reproduce and validate the security issue for testing and documentation purposes.
-- Started developing various social media bots.
+- Identified a business logic vulnerability in a REST API endpoint of a very famous website/app and developed a Python proof-of-concept to show the issue. The flaw resulted from insufficient server-side validation of a client-controlled JSON parameter, allowing a numeric value to be incremented beyond expected limits without proper constraint enforcement or error handling. This uncontrolled increment could be leveraged to obtain unintended advantages within the platform. The finding highlighted a business logic vulnerability and inadequate backend input validation within the API layer.
+- Started developing social media automation bots for content scraping and engagement optimization, leveraging automated data collection and interaction workflows to analyze and influence engagement metrics.
 #### 2025
-- Developed a e-book-to-PDF converter.
-- Developed a Telegram bot for social media profile information lookup.
-- Developed a Telegram bot for retrieving and converting audio content into MP3 format.
+- Developed a Python tool to convert e-books into PDF format for a specific digital book application, whose non-intuitive interface made content access inefficient.
+- Developed a Telegram bot for retrieving public social media profile information from a major social media platform. Users could input a desired username to obtain publicly available profile data associated with that account. The bot also included a separate command to retrieve a list of trending songs. The system relied 100% on direct API requests to the platform’s official servers to fetch and display the information.
+- Developed a Telegram bot for retrieving and converting tracks into MP3 format.
 #### 2026
-- Developed a scraper for a social media platform that downloads stickers from a reel's comments and saves them as PNG files all in one folder.
-- Developed a fully automated social media content generator. It generates viral Reels/Shorts as MP4s ready to be posted on social media platforms.
+- Developed a Python tool for a major social media platform that downloads stickers from a reel's comments and saves them all in one folder. This tool is useful if you want to import trending and/or unique stickers to WhatsApp in bulk.
+- Developed a Python-based 100% automated social media content generation tool that produces short-form viral videos (Reels/Shorts) as ready-to-upload MP4 files for social media platforms. The system integrates multiple APIs, including OpenAI to generate video scripts.
+
+## 📜 Portfolios
+### 📣 Visual and Advertising Communication
+- [Some of my Visual and Advertising Communication projects](https://github.com/cesergio/cesergio/blob/main/Visual%20and%20Advertising%20Communication/Some%20of%20my%20Visual%20and%20Advertising%20Communication%20projects.pdf)
 
 ## 🛠️ What I mainly use
 <p align="left">
@@ -43,6 +47,3 @@ Information Technology & Visual and Advertising Communication enthusiast.
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Adobe_Premiere_Pro_CC_icon.svg" alt="Adobe Premiere Pro" width="30"/>
   <img src="https://cdn.worldvectorlogo.com/logos/office-2.svg" alt="Office" width="30"/>
 </p>
-
-## 📜 Portfolios
-- [Some of my Visual and Advertising Communication projects](https://github.com/cesergio/cesergio/blob/main/Visual%20and%20Advertising%20Communication/Some%20of%20my%20Visual%20and%20Advertising%20Communication%20projects.pdf)
