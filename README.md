@@ -24,7 +24,7 @@ Information Technology & Visual and Advertising Communication enthusiast.
 - Developed a Telegram bot for social media profile information lookup.
 - Developed a Telegram bot for retrieving and converting audio content into MP3 format.
 #### 2026
-- Developed a scraper for a social media platform that downloads stickers from a reel's comments and saves them as PNG files.
+- Developed a scraper for a social media platform that downloads stickers from a reel's comments and saves them as PNG files all in one folder.
 - Developed a fully automated social media content generator. It generates viral Reels/Shorts as MP4s ready to be posted on social media platforms.
 
 ## 🛠️ What I mainly use
